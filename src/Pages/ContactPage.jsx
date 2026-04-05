@@ -6,7 +6,7 @@ const contactLinks = [
   { icon: "⬡", label: "Phone", value: "+91-9179192651", href: "tel:+919179192651" },
   { icon: "✦", label: "GitHub", value: "github.com/pariharaloksingh", href: "https://github.com/pariharaloksingh" },
   { icon: "◎", label: "LinkedIn", value: "linkedin.com/in/alok-singh-parihar", href: "https://linkedin.com/in/alok-singh-parihar" },
-  { icon: "⊕", label: "Portfolio", value: "pariharaloksingh.github.io/my-portfolio", href: "https://pariharaloksingh.github.io/my-portfolio" },
+  { icon: "⊕", label: "Portfolio", value: "pariharaloksingh.github.io/my-portfolio", href: "https://alok-singh-portfolio.vercel.app/" },
 ];
 
 const ContactPage = () => {
